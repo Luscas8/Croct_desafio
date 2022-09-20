@@ -1,7 +1,7 @@
 # Croct_desafio
 
-Install projeto
+Install projeto --
 npm install
 
-inciando projeto local
-$ npm run dev
+inciando projeto local --
+npm run dev
